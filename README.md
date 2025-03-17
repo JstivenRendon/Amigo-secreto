@@ -40,12 +40,24 @@ solo se permiten letras
 Puedes acceder a la aplicación desde el siguiente enlace:  
 🔗 [Amigo Secreto - Sorteo de Nombres](http://127.0.0.1:5500/challenge-amigo-secreto_esp-main/index.html)
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
+## 🛠 Tecnologías utilizadas  
+El proyecto fue desarrollado utilizando las siguientes tecnologías:  
 
-*[Personas Contribuyentes](#personas-contribuyentes)
+- **JavaScript** - Lenguaje principal del proyecto  
+- **HTML y CSS** - Para la estructura y estilos  
+- **Git y GitHub** - Control de versiones y alojamiento del código  
+- **Trello** - Para la organización y planificación del proyecto  
+- **Alura** - Como recurso de aprendizaje y consulta 
 
+## 👥 Personas Contribuyentes  
+Este proyecto fue desarrollado de manera individual
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+## 👨‍💻 Personas Desarrolladoras del Proyecto  
+**[Stiven Patiño Rendon](https://github.com/JstivenRendon)** - Desarrollador  
+**[linkedin](https://www.linkedin.com/in/stiven-pati%C3%B1o-859389163/)**
+## 🏁 Conclusión  
+Este proyecto fue una excelente oportunidad para mejorar mis habilidades en JavaScript y GitHub. Aprendí a manejar eventos en el DOM, validar entradas del usuario y gestionar repositorios en GitHub.  
 
-* [Licencia](#licencia)
+En el futuro, me gustaría agregar nuevas funcionalidades, como estilos personalizados y una mejor experiencia de usuario.  
 
-*[Conclusión](#conclusión)
+¡Gracias por visitar este proyecto! 
