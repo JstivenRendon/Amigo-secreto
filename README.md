@@ -8,32 +8,37 @@ Permite ingresar nombres de participantes y asegurarse de que nadie se repita en
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-Terminado-green)  
 ![Lenguaje](https://img.shields.io/badge/Lenguaje-JavaScript-yellow)  
 
-*[Insignias](#insignias)
+## Descripcion del proyecto 
 
-*[Índice](#índice)
-
-*[Descripción del proyecto](#descripción-del-proyecto)
 Este proyecto permite organizar un sorteo de "Amigo Secreto" de manera sencilla y automática.  
 Los participantes ingresan sus nombres, y el sistema se encarga de asignar de forma aleatoria un nombre, asegurando que no haya repeticiones.  
 
-*[Estado del proyecto](#Estado-del-proyecto)
 ## Estado del Proyecto  
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-Terminado-green)
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 ## Características de la Aplicación y Demostración  
-
 ✅ Permite ingresar nombres de participantes.  
 ✅ Asigna aleatoriamente quién regala a quién.  
-✅ Garantiza que no haya repeticiones.
-✅ Garantiza que solo se ingresen letras, acentos y ñ
-✅ Interfaz sencilla y fácil de usar.  
+✅ Garantiza que no haya repeticiones.  
+✅ Garantiza que solo sean letras. acentos y ñ.  
+
 
 ### Demostración  
-Aquí puedes agregar una imagen o un GIF mostrando el funcionamiento del programa:  
+Vista previa, nombre aleatorio.
 
-![Demo del Proyecto](URL_DE_LA_IMAGEN_O_GIF) 
-*[Acceso al proyecto](#acceso-proyecto)
+![vista previa, nombre aleatorio](https://github.com/JstivenRendon/Amigo-secreto/blob/main/Screenshot%202025-03-17%20181408.png?raw=true) 
+
+Todos los nombres ya se han sorteado.
+
+![Mensaje cuando todos los nombres se han sorteado](https://github.com/JstivenRendon/Amigo-secreto/blob/main/Screenshot%202025-03-17%20181947.png?raw=true) 
+
+solo se permiten letras
+
+![Mensaje que solo sean letras](https://github.com/JstivenRendon/Amigo-secreto/blob/main/Screenshot%202025-03-17%20182007.png?raw=true) 
+
+## 📂 Acceso al proyecto  
+Puedes acceder a la aplicación desde el siguiente enlace:  
+🔗 [Amigo Secreto - Sorteo de Nombres](http://127.0.0.1:5500/challenge-amigo-secreto_esp-main/index.html)
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
