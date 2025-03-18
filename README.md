@@ -49,12 +49,12 @@ El proyecto fue desarrollado utilizando las siguientes tecnologías:
 - **Trello** - Para la organización y planificación del proyecto  
 - **Alura** - Como recurso de aprendizaje y consulta 
 
-## 👥 Personas Contribuyentes  
+##  Personas Contribuyentes  
 Este proyecto fue desarrollado de manera individual
 ## 👨‍💻 Personas Desarrolladoras del Proyecto  
 **[Stiven Patiño Rendon](https://github.com/JstivenRendon)** - Desarrollador  
 **[linkedin](https://www.linkedin.com/in/stiven-pati%C3%B1o-859389163/)**
-## 🏁 Conclusión  
+##  Conclusión  
 Este proyecto fue una excelente oportunidad para mejorar mis habilidades en JavaScript y GitHub. Aprendí a manejar eventos en el DOM, validar entradas del usuario y gestionar repositorios en GitHub.  
 
 En el futuro, me gustaría agregar nuevas funcionalidades, como estilos personalizados y una mejor experiencia de usuario.  
