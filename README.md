@@ -20,7 +20,7 @@ Los participantes ingresan sus nombres, y el sistema se encarga de asignar de fo
 ✅ Permite ingresar nombres de participantes.  
 ✅ Asigna aleatoriamente quién regala a quién.  
 ✅ Garantiza que no haya repeticiones.  
-✅ Garantiza que solo sean letras. acentos y ñ.  
+✅ Garantiza que solo sean letras, acentos y ñ.  
 
 
 ### Demostración  
@@ -51,7 +51,6 @@ El proyecto fue desarrollado utilizando las siguientes tecnologías:
 
 ## 👥 Personas Contribuyentes  
 Este proyecto fue desarrollado de manera individual
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 ## 👨‍💻 Personas Desarrolladoras del Proyecto  
 **[Stiven Patiño Rendon](https://github.com/JstivenRendon)** - Desarrollador  
 **[linkedin](https://www.linkedin.com/in/stiven-pati%C3%B1o-859389163/)**
